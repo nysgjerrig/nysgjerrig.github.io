@@ -1,4 +1,4 @@
-*
-!.gitignore
-!fonts
-!favicon.ico
+#*
+#!.gitignore
+#!fonts
+#!favicon.ico
