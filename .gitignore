@@ -1,6 +1,4 @@
-.idea
-.vscode
-.DS_Store
-node_modules
-dist/css
-dist/js
+#*
+#!.gitignore
+#!fonts
+#!favicon.ico
